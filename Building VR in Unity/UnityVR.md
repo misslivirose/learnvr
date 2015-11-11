@@ -29,7 +29,7 @@ I also spent some time working with Meta, an augmented reality device, at a hack
 [AstroAR Source Code - GitHub](https://github.com/misslivirose/metahack)
 
 ## Lady 3Jane: Optimization & Specified Targets
-Coming Soon!
+One of the most important components of a good VR application is making sure that your application has excellent performance - you'll want to aim for hitting a framerate of at least 75 FPS, and ideally hit 90-120. 
 
 ## The Oracle: Community Engagement
 Even becoming deeply familiar with Unity, and once you've had a few projects under your belt, you'll likely run into issues that can be challenging to troubleshoot - especially if you're like me and spend way too much time staring at the same line of code, only to realize the bug is somewhere else entirely. At this stage, you're probably more likely to find help (and contribute!) within the community, so here are some of my favorite places to find assistance and help others:

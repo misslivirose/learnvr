@@ -7,6 +7,8 @@ Congratulations! You've come to the right place. Whether you're just starting ou
 ### Getting Started
 In this repository, content is saved by topic. Some topics include sample code and projects you can work through, others are tutorials, and some are collections of slide decks, documents, links - pretty much any content that I've created to help teach VR development in smaller workshops will be made available through this repository to follow along with or play with at your own pace.
 
+Where to go first: Getting Started / Intro! 
+
 ### My story
 In 2013, I graduated with a Computer Science degree from Virginia Tech (go Hokies!) and started working full time as a Program Manager with the Remote Desktop team at Microsoft in Silicon Valley. Although I liked the work and the team, I found myself envious of the passion and drive that I saw surrounding me. I knew that I wanted to get back into developing regularly, but nothing really captured that excitement for me. 
 
