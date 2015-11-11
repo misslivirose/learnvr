@@ -10,6 +10,8 @@ Hello, Unity.
 
 Unity has an amazing developer community, with a ton of resources available for aspiring Unity developers to learn from. As you start working on your own projects, I highly recommend referring back to them depending on which areas you find you're having trouble with. 
 
+The 'Unity Overview' slide deck in this folder provides a quick walkthrough of the basics of using Unity to build 3D applications. 
+
 ## Art3mis: Introduction to Unity Projects (Tutorial)
 Once you have an overview of what Unity is and have decided to dive a little bit deeper into learning, I always find that the best way to accelerate the learning process is to just dive in and start a project. I know for me, this was a little challenging and intimidating, which is why I documented my first-ever full project, a simple timed maze game, with a full Unity tutorial including the code for all of the scripts. 
 
@@ -28,8 +30,20 @@ I also spent some time working with Meta, an augmented reality device, at a hack
 
 [AstroAR Source Code - GitHub](https://github.com/misslivirose/metahack)
 
+Once you start building out your application in Unity, you can find additional support [documentation by Unity for virtual reality development](http://docs.unity3d.com/Manual/VROverview.html) using their game engine. 
+
 ## Lady 3Jane: Optimization & Specified Targets
 One of the most important components of a good VR application is making sure that your application has excellent performance - you'll want to aim for hitting a framerate of at least 75 FPS, and ideally hit 90-120. 
+
+Depending on your application, the techniques for achieving this may vary, but some helpful overview content provides a good starting point when you're at the optimization stage, targeting release:
+
+[Using the Unity Profiler](http://docs.unity3d.com/Manual/Profiler.html) 
+
+[Unity's Optimization Documentation](http://docs.unity3d.com/Manual/OptimizingGraphicsPerformance.html)
+
+[12 Performance Tips for Optimizing VR Apps in Unity 5](http://dshankar.svbtle.com/performance-optimization-for-vr-apps) 
+
+[Squeezing Performance out of your Unity Gear VR Game](https://developer.oculus.com/blog/squeezing-performance-out-of-your-unity-gear-vr-game/)
 
 ## The Oracle: Community Engagement
 Even becoming deeply familiar with Unity, and once you've had a few projects under your belt, you'll likely run into issues that can be challenging to troubleshoot - especially if you're like me and spend way too much time staring at the same line of code, only to realize the bug is somewhere else entirely. At this stage, you're probably more likely to find help (and contribute!) within the community, so here are some of my favorite places to find assistance and help others:
