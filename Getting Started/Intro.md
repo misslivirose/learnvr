@@ -20,7 +20,7 @@ I get this question a lot at events and conferences, and the answer will depend 
 ## Using this repository
 The first thing that you're going to want to do when building a study plan is get familiar with the device ecosystem for Reality++ and the different options for developing. 
 
-1. Familiarize yourself with the basics of virtual and augmented reality devices and the options you have for building applications. [Overview Slides](http://livi.link/svcc2015). When you have a project in mind, think about the following to guide your study plan:
+1. Familiarize yourself with the basics of virtual and augmented reality devices and the options you have for building applications with [this video](https://channel9.msdn.com/blogs/misslivirose/Beginning-VR-Development) and the [overview slides](http://livi.link/svcc2015). When you have a project in mind, think about the following to guide your study plan:
 
  * What is the initial platform (desktop / mobile / game console) that I want to build for? 
 
