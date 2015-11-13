@@ -1,6 +1,6 @@
 # LearnVR
-A repository to collect VR learning resources
 
+![KittenVR](http://i.imgur.com/VJk7xXS.jpg)
 ### So you want to build for virtual & augmented reality?
 Congratulations! You've come to the right place. Whether you're just starting out as a developer or have been building for some time, this site / repository will help you get started. 
 
@@ -24,6 +24,7 @@ YES! One person's experiences and resources isn't teaching - building this indus
 
 ### Questions?
 Shoot me an email! Livi.Erickson@gmail.com 
+@misslivirose on Twitter
 
 
 
