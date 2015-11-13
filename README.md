@@ -14,7 +14,7 @@ In 2013, I graduated with a Computer Science degree from Virginia Tech (go Hokie
 
 One day, I stumbled across [VirtuAlly](http://youtube.com/pixelwhipt) and had what I call a "literal lightbulb moment" - the entire room got brighter, and I knew that I had found what I wanted to spend my life working on in virtual reality. I dove head first into absorbing everything I could find about building for VR, got my hands on as many developer kits as I could afford, and never looked back.
 
-One of the most common questions that I get is how to get into the VR / AR industry, especially from people who are curious about developing but may not have had experience in 3D graphics or game programming. My goal with this project is to provide a central resource 
+One of the most common questions that I get is how to get into the VR / AR industry, especially from people who are curious about developing but may not have had experience in 3D graphics or game programming. My goal with this project is to provide a central resource for anyone - regardless of their experience level or background - who is interested in building immersive experiences for the next generation of computing devices.
 
 ### Who is the LearnVR project for?
 Anyone with an interest in joining and contributing to the virtual and augmented reality industry! 
