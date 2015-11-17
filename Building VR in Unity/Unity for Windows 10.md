@@ -1,9 +1,9 @@
  This page is a collection of resources for building Windows 10 applications with Unity
  
- ## Windows 10 Overview
+ ##Windows 10 Overview
  The Windows 10 Universal platform allows developers to write one code base for any device from the Windows 10 family. This includes desktop PCs, mobile phones, Xbox, tablets - anything that runs Windows 10 will be able to run applications built against the Universal Windows platform (sometimes shortened to UWP).
  
- ## Download Visual Studio and the Windows 10 SDK
+ ##Download Visual Studio and the Windows 10 SDK
  You can use Visual Studio as your default editor with Unity for the full debugging and editing tools. This is required for building UWP applications, and is incredibly helpful when troubleshooting bugs in you game. Visual Studio Community edition is free, and a great choice for those just starting out.
  
  The Windows 10 SDK is required to build applications for the Windows 10 Universal Platform.
@@ -12,7 +12,7 @@
  
  [Download the Windows 10 SDK](https://dev.windows.com/en-us/downloads/windows-10-sdk)
  
- ## Helpful links 
+ ##Helpful links 
  
  This blog post covers a lot of great information to help your game take full advantage of the features of Windows 10. It covers the basics of the UWP platform, how to target specific devices and device capabilities, and upgrade your existing Windows 8/8.1 games for the new platform.
  
