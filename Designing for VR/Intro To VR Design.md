@@ -5,3 +5,8 @@ Immersive technologies bring computing technology into three dimensions, requiri
 This video covers the basics of creating immersive content for virtual reality. What are the important considerations for building inclusive content? How do you make sure that your experience meets a user's expectations? 
 
 [This Video](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions) covers the basic fundamentals of a virtual reality environment, including tips on capturing the user's attention in a 360 degree world and avoiding simulator sickness-inducing mechanics.
+
+###Resources
+I highly recommend checking out Omgmog's UX/UI VR repository for a good set of resources around designing for virtual reality:
+
+[Omgmog\ui-ux-vr](https://github.com/omgmog/ui-ux-vr)
