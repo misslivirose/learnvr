@@ -6,6 +6,8 @@ This video covers the basics of creating immersive content for virtual reality. 
 
 [This Video](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions) covers the basic fundamentals of a virtual reality environment, including tips on capturing the user's attention in a 360 degree world and avoiding simulator sickness-inducing mechanics.
 
+[Episode 4 of Just A/VR Show](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing) covers the types of inputs available for virtual and augmented reality systems, as well as tips for planning and testing VR experiences.
+
 ###Resources
 I highly recommend checking out Omgmog's UX/UI VR repository for a good set of resources around designing for virtual reality:
 
