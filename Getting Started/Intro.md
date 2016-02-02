@@ -34,7 +34,7 @@ The first thing that you're going to want to do when building a study plan is ge
 		
  * If you're more interested in applications that present existing data and utilizing a fair amount of web content, consider looking into [WebVR](http://webvr.info) , [AFrame](http://aframe.io) or [Vizor Create](http://vizor.io). 
  
- * If you're interested in creating 360 degree video content, brush up on what [Jaunt VR](jauntvr.com) and [Next VR](nextvr.com) are working on. Then, head over to PremiumBeat's [blog](http://www.premiumbeat.com/blog/how-to-shoot-edit-and-upload-360-degree-videos/) to see how to get started. 
+ * If you're interested in creating 360 degree video content, brush up on what [Jaunt VR](http://jauntvr.com) and [Next VR](http://nextvr.com) are working on. Then, head over to PremiumBeat's [blog](http://www.premiumbeat.com/blog/how-to-shoot-edit-and-upload-360-degree-videos/) to see how to get started. 
 		
 3. Find the corresponding sections in the repository for the toolset you're interested in and read over the introduction. This will break down each level into more detailed sections and help guide you through the relevant content for your experience & background. 
 
