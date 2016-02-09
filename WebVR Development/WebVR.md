@@ -17,9 +17,18 @@ A-Frame is a new markup language for building virtual reality web experiences, a
 [How A-Frame is Different from Other 3D Markup Languages](http://ngokevin.com/blog/aframe-vs-3dml/)
 
 ## Y.T: Web Basics
-Just starting out with web development in general, and maybe unsure about the differences between front-end and back-end development? Even if you're sitting down and starting your first-ever attempt 
+Just starting out with web development in general, and maybe unsure about the differences between front-end and back-end development? Even if you're sitting down and starting your first-ever attempt at creating a website, you can start creating applications for VR on the web! 
+
+Recommended starting point: Vizor, A-Frame
+
 ## Art3mis
+You've dabbled in web development enough to know what JavaScript looks like, and you generally understand how web elements work together and the basics of asynchronous prpogramming. You're comfortable debugging client-side errors in the browser, and feel comfortable with your ability to troubleshoot aided by a search engine. 3D programming is new to you.
+
+Recommended starting point: Vizor, A-Frame, Three.JS online editor
 
 ## Trinity
+You're comfortable working in the 3D coordinate system and you've got the browser debugger at your mercy. You know how to run a local webserver and work within animation loops. Documentation and source code are your favorite ways to learn. Your creativity knows no bounds, and you're ready for a framework that lets you have fine control over your entire experience.
+
+Recommended starting point: WebVR-Boilerplate & Three.js 
 
 ## Lady3Jane
