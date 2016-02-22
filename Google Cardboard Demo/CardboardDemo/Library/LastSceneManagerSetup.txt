@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Our Assets/Scenes/Field.unity
-  isLoaded: 1
-  isActive: 1
