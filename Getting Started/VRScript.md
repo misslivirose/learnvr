@@ -7,7 +7,7 @@ Thank you to GitHub user [jfonte](https://github.com/jfonte) for the archive/vid
 
 [Google Racket Groups Discussion on VrScript](https://groups.google.com/forum/#!msg/racket-users/RFlh0o6l3Ls/8InN7uz-Mv4J)
 
-[Github script archive from user jb55](https://github.com/jb55/vrscript-samples/blob/master/)
+[Github script archive from user jb55](https://github.com/jb55/vrscript-samples/)
 
 [Live Demo of VrScript with John Carmack at Oculus Connect 2](https://www.youtube.com/watch?v=ydyztGZnbNs) - YouTube 
 
