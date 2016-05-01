@@ -21,6 +21,8 @@ Just starting out with web development in general, and maybe unsure about the di
 
 Recommended starting point: Vizor, A-Frame
 
+[Video: Building The VR Web with A-Frame](https://channel9.msdn.com/blogs/misslivirose/Building-the-VR-Web-with-A-Frame)
+
 ## Art3mis
 You've dabbled in web development enough to know what JavaScript looks like, and you generally understand how web elements work together and the basics of asynchronous prpogramming. You're comfortable debugging client-side errors in the browser, and feel comfortable with your ability to troubleshoot aided by a search engine. 3D programming is new to you.
 
