@@ -4,6 +4,10 @@ So you want to be a virtual or augmented reality developer? Welcome to the Matri
 ## The VR/AR Ecosystem - An Overview
 The virtual and augmented reality ecosystem is rapidly changing and evolving, so take this section with a grain of salt and expect updates often. [NYU's Media Lab](http://www.nycmedialab.org/wp-content/uploads/2015/12/12.14.VR_.pdf?utm_content=buffereefce&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) created an excellent state of the industry document that I highly recommend checking out.
 
+[This document](http://www.cs.unc.edu/~fuchs/publications/DisplaysforAR99.pdf) (PDF) from UNC highlights the different methods for augmented displays, and is a good primer on the history of AR HMDs and the differences in how augmented reality can be accomplished. 
+
+As you start exploring your own ways of getting more involved with virtual reality development, ask yourself [these six questions](https://livierickson.com/blog/6-questions-to-ask-before-diving-into-vr-development/) and think about where you want to focus your learning efforts. This will help you plan out a way to start creating virtual and augmented reality and give you some insight into the options that are available for getting on the right path. 
+
 ## I want to build for immersive tech, where do I start?
 I get this question a lot at events and conferences, and the answer will depend on your interests, previous experience, and platform of choice. The entire repository is designed to be self-driven, but I'm going to define a few personas that will help you figure out where to get started and give a sample plan of study. Throughout the respository, you'll find notes for each persona to help get you the right information for your background:
 
