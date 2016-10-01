@@ -10,6 +10,8 @@ The easiest way to handle this boilerplate is with [Vive Grip](https://www.asset
 
 [Basic usage](https://www.youtube.com/watch?v=NyKWBeC_pSI) - Setting up object grabbing and highlighting with some drag-and-drop scripts
 
+[Interaction scripting](https://www.youtube.com/watch?v=kKnO8BSdpZQ) - Linking your code logic to object interactions
+
 [Examples](https://github.com/JScott/ViveGrip/tree/master/Assets/ViveGrip/Examples) - Explanations of how to make the objects found in the demo scene
 
 ### Downloads
