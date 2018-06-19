@@ -29,9 +29,13 @@
 * https://aframe.io/ 
 * https://twitter.com/aframevr
 * https://livierickson.com/blog/just-avr-show-building-the-vr-web-with-a-frame/
+* https://github.com/aframevr/aframe
 
 *Slide 18*
 * https://github.com/networked-aframe/networked-aframe
+
+*Slide 19*
+* https://github.com/facebook/react-360
 
 *Slide 20*
 * https://vrtoolkit.readme.io/
