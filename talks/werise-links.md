@@ -3,59 +3,61 @@
 *Slide 4*
 * http://livi.link/WeRiseTerms
 
-*Slide 8*
+*Slide 7*
 * https://github.com/borismus/webvr-boilerplate 
 * https://unity3d.com/learn
 
-*Slide 11*
+*Slide 10*
 * https://github.com/misslivirose/webvrspace
 
-*Slide 14*
+*Slide 12*
 * https://www.youtube.com/watch?v=hBxcGTYSvDw&feature=youtu.be&a=
 
-*Slide 16*
+*Slide 13*
 * https://github.com/highfidelity/hifi 
 * https://github.com/highfidelity/hifi-content 
 * www.highfidelity.com 
 
-*Slide 18*
+*Slide 15*
 * https://github.com/immersive-web/webxr-polyfill
 
-*Slide 19*
+*Slide 16*
 * http://threejs.org/ 
 * https://github.com/mrdoob/three.js/
 
-*Slide 20*
+*Slide 17*
 * https://aframe.io/ 
 * https://twitter.com/aframevr
 * https://livierickson.com/blog/just-avr-show-building-the-vr-web-with-a-frame/
 
-
-*Slide 22*
+*Slide 18*
 * https://github.com/networked-aframe/networked-aframe
 
-*Slide 24*
+*Slide 20*
 * https://vrtoolkit.readme.io/
 * https://github.com/thestonefox/VRTK
 * https://assetstore.unity.com/packages/tools/vrtk-virtual-reality-toolkit-vr-toolkit-64131
 
-*Slide 25*
+*Slide 21*
 * http://www.osvr.org/
 * https://github.com/OSVR/OSVR-HDK
 
-*Slide 26*
+*Slide 22*
 * https://www.vrblockchainalliance.org/
 * http://highfidelity.com/
 * https://janusvr.com/
 * http://www.somniumspace.com/
 
-*Slide 27*
+*Slide 23*
 * https://doc.qt.io/qt-5/qtscript-index.html
 
-*Slide 50*
+*Slide 43*
+* https://github.com/facebookresearch/DensePose
+
+*Slide 45*
 * https://www.meetup.com/XRAtlanta/
 * https://gabrielaarp.eventbrite.com/
 
-*Slide 52*
+*Slide 47*
 * https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil
 
