@@ -28,7 +28,7 @@
 
 *Slide 20*
 * https://vrtoolkit.readme.io/
-* ://github.com/thestonefox/VRTK
+* https://github.com/thestonefox/VRTK
 * https://assetstore.unity.com/packages/tools/vrtk-virtual-reality-toolkit-vr-toolkit-64131
 
 *Slide 21*
