@@ -36,3 +36,43 @@ _Rift_ - an Oculus Rift, which is a type of headset made by Oculus (Facebook)
 _Vive_ - an HTC Vive, which is a type of headset primarily known for its full room-scale tracking ability
 
 _Hand Controllers_ - referring to specialized controllers that you can use to track your hands within a space to more naturally interact with the virtual world around you
+
+_Simulation_ - a virtual representation of an environment
+
+_Unity_ - a 3D game engine
+
+_High Fidelity / "HiFi"_ - an open source social VR world building platform 
+
+_Google Cardboard_ - first iteration of Google's mobile VR based headsets, literally made of cardboard that you popped your phone into
+
+_Gaze Tracking_ - Following where the viewer is looking with their head, usually extrapolated from the center of the view
+
+_Stereoscopic_ - a scene visually separated into two different viewpoints offset to be rendered more similarly to how our eyes perceive the world
+
+_HoloLens_ - Microsoft's Mixed Reality (AR) headset
+
+_Avatar_ - a virtual person that represents a real person
+
+_WebGL_ - an API for graphics rendering in the browser
+
+_Rendering_ - the process of drawing virtual content to your display
+
+_a-dash_ - the designation within opening and closing <> tags for A-Frame, a markup style language from Mozilla for creating 3D scenes for WebVR
+
+_locomotion_ - how a user moves within a VR scene. Examples could include using a joystick, flying, or teleportation
+
+_spatial user interface_ - a type of user interface that a player interacts with in a three-dimensional virtual world
+
+_blockchain_ - a distributed computing solution where data is written to a ledger, which is copied across nodes to verify integrity of the data
+
+_EMCA Script_ - the standardized base language for JavaScript
+
+_Qt_ - a C++ framework 
+
+_Distributed architecture_ - one where components of a system are run across multiple machines, often in many different locations
+
+_Cloud Services_ - services that are provided by a company and run on a virtual host, rather than running on a local server or application
+
+_JimJamz Show_ - a live show produced by High Fidelity where 3D artists streamed from within VR to YouTube and Twitch
+
+_Nightbot API_ - a service that allows you to support multiple streaming services and create custom behaviors and commands
