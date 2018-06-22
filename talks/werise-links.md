@@ -1,4 +1,5 @@
 # Resources for We Rise 2018 Slides
+**Slides:** https://www.slideshare.net/LivErickson1/developing-social-vr-with-open-source-software
 
 *Slide 1*
 * http://livi.link/WeRiseTerms
