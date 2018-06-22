@@ -1,6 +1,8 @@
 # WeRise 2018 
 As much as I'll try to cover these as I go, I might miss a few! If you're not familiar with virtual reality (VR) or augmented reality (AR) then you can reference this page if something comes up that I forget to define!
 
+**Slides:** https://www.slideshare.net/LivErickson1/developing-social-vr-with-open-source-software
+
 _VR_- Short for 'virtual reality'. Generally used to describe 3D applications that are viewed inside of a headset to transport the viewer to a virtual world. Examples of VR devices include the Oculus Rift, HTC Vive, Samsung Gear VR, Google Daydream, and FOVE.
 
 _AR_ - Short for 'augmented reality'. Used to describe applications or hardware that add digital visual elements to the world around us. Examples of AR devices include Meta Glass, Google Glass, and Google Tango phones.
