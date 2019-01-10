@@ -9,7 +9,7 @@ Keep an eye out for HoloLens events in your area at [HoloLensEvents.com](http://
 ## Get the Tools
 You can get started developing for HoloLens without a device:
 * [Installation Checklist](https://developer.microsoft.com/en-us/windows/holographic/install_the_tools)
-* [Documentation](https://developer.microsoft.com/en-us/windows/holographic/documentation)
+* [Documentation](https://docs.microsoft.com/en-us/windows/mixed-reality/)
 * [Source code for Galaxy Explorer App](https://github.com/Microsoft/GalaxyExplorer)
 * [Official Developer Forum](https://forums.hololens.com/)
 
